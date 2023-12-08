@@ -12,3 +12,23 @@ C:\Users\dennis\source\repos\Email Generator\Email Generator\obj\Debug\net7.0\re
 C:\Users\dennis\source\repos\Email Generator\Email Generator\obj\Debug\net7.0\Email Generator.pdb
 C:\Users\dennis\source\repos\Email Generator\Email Generator\obj\Debug\net7.0\Email Generator.genruntimeconfig.cache
 C:\Users\dennis\source\repos\Email Generator\Email Generator\obj\Debug\net7.0\ref\Email Generator.dll
+C:\Users\dennis\source\repos\Email Generator\Email Generator\bin\Debug\net7.0\EPPlus.dll
+C:\Users\dennis\source\repos\Email Generator\Email Generator\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Users\dennis\source\repos\Email Generator\Email Generator\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Users\dennis\source\repos\Email Generator\Email Generator\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\dennis\source\repos\Email Generator\Email Generator\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dennis\source\repos\Email Generator\Email Generator\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\dennis\source\repos\Email Generator\Email Generator\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\dennis\source\repos\Email Generator\Email Generator\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dennis\source\repos\Email Generator\Email Generator\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\dennis\source\repos\Email Generator\Email Generator\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\dennis\source\repos\Email Generator\Email Generator\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dennis\source\repos\Email Generator\Email Generator\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\dennis\source\repos\Email Generator\Email Generator\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dennis\source\repos\Email Generator\Email Generator\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\dennis\source\repos\Email Generator\Email Generator\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\dennis\source\repos\Email Generator\Email Generator\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dennis\source\repos\Email Generator\Email Generator\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\dennis\source\repos\Email Generator\Email Generator\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\dennis\source\repos\Email Generator\Email Generator\obj\Debug\net7.0\Email Generator.csproj.AssemblyReference.cache
+C:\Users\dennis\source\repos\Email Generator\Email Generator\obj\Debug\net7.0\Email Generator.csproj.CopyComplete
