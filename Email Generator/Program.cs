@@ -7,7 +7,9 @@ class Program
 {
     static void Main()
     {
-        FileReader read = new FileReader();
-        read.PrintFileContents();
+        //FileReader read = new FileReader();
+        //read.PrintFileContents();
+        FolderGenerator generate = new FolderGenerator();
+        generate.GenerateRootFolder("RootFolder");
     }
 }
